@@ -21,3 +21,6 @@ if (low != e && low != q)
 putchar(low);
 }
 putchar('\n');
+
+return (0);
+}
